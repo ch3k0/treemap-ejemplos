@@ -109,7 +109,7 @@ var visualization = d3plus.viz()
     "scale": ["#6985d0", "#f7d360", "#ec6d65"],
     "value": "escuelas"
   })
-  .size(1) // measure values here
+  .size("escuelas") // measure values here
   .messages({
     "value": " Cargando...", // can specify loading messages here
     "padding": 2,
