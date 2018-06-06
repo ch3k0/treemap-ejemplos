@@ -1,0 +1,1241 @@
+{
+  "titulo": "Escuelas primarias por municipio",
+  "descripcion": "Número total de escuelas primarias por municipio en el estado de ZACATECAS",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [{
+      "municipio": "APOZOL",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "APOZOL",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 9,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "APOZOL",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "APULCO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "APULCO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 10,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "APULCO",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "ATOLINGA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "BENITO JUÁREZ",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 5,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "BENITO JUÁREZ",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "BENITO JUÁREZ",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CALERA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 4,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CALERA",
+      "subcontrol": "PRIVADO",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CALERA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 20,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CAÑITAS DE FELIPE PESCADOR",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CAÑITAS DE FELIPE PESCADOR",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 6,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CAÑITAS DE FELIPE PESCADOR",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CHALCHIHUITES",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CHALCHIHUITES",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CHALCHIHUITES",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CHALCHIHUITES",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 20,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CONCEPCIÓN DEL ORO",
+      "subcontrol": "ESTATAL",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CONCEPCIÓN DEL ORO",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CONCEPCIÓN DEL ORO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 16,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CONCEPCIÓN DEL ORO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 5,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CUAUHTÉMOC",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CUAUHTÉMOC",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "CUAUHTÉMOC",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 6,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "EL PLATEADO DE JOAQUÍN AMARO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 4,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "EL SALVADOR",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 6,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "EL SALVADOR",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "FRESNILLO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 27,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "FRESNILLO",
+      "subcontrol": "PRIVADO",
+      "escuelas": 10,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "FRESNILLO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 168,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "FRESNILLO",
+      "subcontrol": "ESTATAL",
+      "escuelas": 9,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GENARO CODINA",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 5,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GENARO CODINA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 15,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GENARO CODINA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GENERAL ENRIQUE ESTRADA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GENERAL ENRIQUE ESTRADA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 6,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GENERAL FRANCISCO R. MURGUÍA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 41,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GENERAL FRANCISCO R. MURGUÍA",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GENERAL PÁNFILO NATERA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 24,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GENERAL PÁNFILO NATERA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GUADALUPE",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GUADALUPE",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 59,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GUADALUPE",
+      "subcontrol": "PRIVADO",
+      "escuelas": 16,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "GUADALUPE",
+      "subcontrol": "ESTATAL",
+      "escuelas": 6,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "HUANUSCO",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "HUANUSCO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "HUANUSCO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 15,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JALPA",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 8,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JALPA",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JALPA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 29,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JALPA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JEREZ",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 8,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JEREZ",
+      "subcontrol": "ESTATAL",
+      "escuelas": 5,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JEREZ",
+      "subcontrol": "PRIVADO",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JEREZ",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 53,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JIMÉNEZ DEL TEUL",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 13,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JIMÉNEZ DEL TEUL",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JUAN ALDAMA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 14,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JUAN ALDAMA",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JUAN ALDAMA",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JUAN ALDAMA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JUCHIPILA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 12,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "JUCHIPILA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "LORETO",
+      "subcontrol": "PRIVADO",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "LORETO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "LORETO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 38,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "LUIS MOYA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 12,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "LUIS MOYA",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MAZAPIL",
+      "subcontrol": "ESTATAL",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MAZAPIL",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 54,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MAZAPIL",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 6,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MELCHOR OCAMPO",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MELCHOR OCAMPO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 8,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MEZQUITAL DEL ORO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MEZQUITAL DEL ORO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 10,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MIGUEL AUZA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 10,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MIGUEL AUZA",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MIGUEL AUZA",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MIGUEL AUZA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 4,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MOMAX",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MOMAX",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MOMAX",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MONTE ESCOBEDO",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MONTE ESCOBEDO",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MONTE ESCOBEDO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 15,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MONTE ESCOBEDO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 8,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MORELOS",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MORELOS",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 4,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MOYAHUA DE ESTRADA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MOYAHUA DE ESTRADA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 6,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "MOYAHUA DE ESTRADA",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "NOCHISTLÁN DE MEJÍA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "NOCHISTLÁN DE MEJÍA",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "NOCHISTLÁN DE MEJÍA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 33,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "NOCHISTLÁN DE MEJÍA",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 12,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "NORIA DE ÁNGELES",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 19,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "NORIA DE ÁNGELES",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 4,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "NORIA DE ÁNGELES",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "OJOCALIENTE",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 35,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "OJOCALIENTE",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "OJOCALIENTE",
+      "subcontrol": "ESTATAL",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "OJOCALIENTE",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "PÁNUCO",
+      "subcontrol": "ESTATAL",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "PÁNUCO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 16,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "PÁNUCO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "PINOS",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "PINOS",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "PINOS",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 110,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "PINOS",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 34,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "RÍO GRANDE",
+      "subcontrol": "ESTATAL",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "RÍO GRANDE",
+      "subcontrol": "PRIVADO",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "RÍO GRANDE",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 41,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "RÍO GRANDE",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "SAIN ALTO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 23,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "SAIN ALTO",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "SAIN ALTO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 9,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "SANTA MARÍA DE LA PAZ",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 5,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "SANTA MARÍA DE LA PAZ",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "SOMBRERETE",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 15,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "SOMBRERETE",
+      "subcontrol": "ESTATAL",
+      "escuelas": 4,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "SOMBRERETE",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 67,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "SOMBRERETE",
+      "subcontrol": "PRIVADO",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "SUSTICACÁN",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "SUSTICACÁN",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "SUSTICACÁN",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TABASCO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TABASCO",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TABASCO",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TABASCO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 20,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TEPECHITLÁN",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 12,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TEPECHITLÁN",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TEPECHITLÁN",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TEPETONGO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TEPETONGO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 15,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TEPETONGO",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TEÚL DE GONZÁLEZ ORTEGA",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TEÚL DE GONZÁLEZ ORTEGA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TEÚL DE GONZÁLEZ ORTEGA",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TEÚL DE GONZÁLEZ ORTEGA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 6,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TLALTENANGO DE SÁNCHEZ ROMÁN",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TLALTENANGO DE SÁNCHEZ ROMÁN",
+      "subcontrol": "ESTATAL",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TLALTENANGO DE SÁNCHEZ ROMÁN",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 5,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TLALTENANGO DE SÁNCHEZ ROMÁN",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 32,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TRANCOSO",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TRANCOSO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 14,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TRANCOSO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TRINIDAD GARCÍA DE LA CADENA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "TRINIDAD GARCÍA DE LA CADENA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VALPARAÍSO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 16,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VALPARAÍSO",
+      "subcontrol": "PRIVADO",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VALPARAÍSO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 58,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VALPARAÍSO",
+      "subcontrol": "ESTATAL",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VETAGRANDE",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VETAGRANDE",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 9,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLA DE COS",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 55,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLA DE COS",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 5,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLA GARCÍA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLA GARCÍA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 20,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLA GARCÍA",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLA GONZÁLEZ ORTEGA",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 4,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLA GONZÁLEZ ORTEGA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 10,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLA GONZÁLEZ ORTEGA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLA HIDALGO",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 25,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLA HIDALGO",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLA HIDALGO",
+      "subcontrol": "ESTATAL",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLANUEVA",
+      "subcontrol": "PRIVADO",
+      "escuelas": 3,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLANUEVA",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 43,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLANUEVA",
+      "subcontrol": "ESTATAL",
+      "escuelas": 2,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "VILLANUEVA",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 5,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "ZACATECAS",
+      "subcontrol": "PRIVADO",
+      "escuelas": 14,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "ZACATECAS",
+      "subcontrol": "ESTATAL",
+      "escuelas": 11,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "ZACATECAS",
+      "subcontrol": "COMUNITARIA",
+      "escuelas": 1,
+      "info1": "a",
+      "info2": "c"
+    },
+    {
+      "municipio": "ZACATECAS",
+      "subcontrol": "FEDERAL TRANSFERIDO",
+      "escuelas": 41,
+      "info1": "a",
+      "info2": "c"
+    }
+  ]
+}
